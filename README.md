@@ -2,11 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm WekyJay</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=The+more+known%2C+the+more+unknown.)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=The+more+known%2C+the+more+unknown." alt="wekyjay" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wekyjay&label=Profile%20views&color=0e75b6&style=flat" alt="wekyjay" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=wekyjay&label=Profile%20views&color=0e75b6&style=flat" alt="wekyjay" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WekyJay)](https://github-readme-streak-stats.herokuapp.com/?user=WekyJay)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WekyJay&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=WekyJay&theme=default" />
+</picture>
+
 
 - 🔭 I’m currently working on [JsonToBpmn](https://github.com/WekyJay/JsonToBpmn-Demo)
 
