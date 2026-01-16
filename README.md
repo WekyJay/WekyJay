@@ -10,10 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=wekyjay&label=Profile%20views&color=0e75b6&style=flat" alt="wekyjay" />
 </p>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=WekyJay&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=WekyJay&theme=default" />
-</picture>
+
+<p align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-opal-one.vercel.app?user=WekyJay&theme=dark" />
+      <img src="https://github-readme-streak-stats-opal-one.vercel.app?user=WekyJay&theme=default" />
+  </picture>
+</p>
 
 
 - 🔭 I’m currently working on [JsonToBpmn](https://github.com/WekyJay/JsonToBpmn-Demo)
