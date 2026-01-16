@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wekyjay&label=Profile%20views&color=0e75b6&style=flat" alt="wekyjay" /> </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=WekyJay)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WekyJay)](https://github-readme-streak-stats.herokuapp.com/?user=WekyJay)
 
 - 🔭 I’m currently working on [JsonToBpmn](https://github.com/WekyJay/JsonToBpmn-Demo)
 
