@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WekyJay</h1>
-<h3 align="center">The more known, the more unknown.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=The+more+known%2C+the+more+unknown.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wekyjay&label=Profile%20views&color=0e75b6&style=flat" alt="wekyjay" /> </p>
 
