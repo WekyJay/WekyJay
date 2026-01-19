@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm WekyJay</h1>
 
 <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=wekyjay&show_icons=true&theme=transparent" alt="WekyJay's GitHub stats" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=The+more+known%2C+the+more+unknown." alt="wekyjay" />
 </p>
 
