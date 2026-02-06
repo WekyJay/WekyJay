@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hola%20Welcome&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm WekyJay</h1>
 
@@ -20,11 +19,6 @@
 
 - 📫 How to reach me **wekyjay@icloud.com**
 
-
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=wekyjay&show_icons=true&theme=transparent" alt="WekyJay's GitHub stats" />
-</p>
 
 <p align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-opal-one.vercel.app?user=WekyJay&theme=dark" />
